@@ -24,7 +24,7 @@ cd PlacementCell
 npm install
 ```
 ### Step 3: Setup environment variables
-Create a .env.local file in the root directory and configure the following variables:
+Create a `.env.local` file in the root directory and configure the following variables:
 ```
 MONGODB_URL = mongodb+srv://chetan:chetan@cluster0.yz9xq.mongodb.net/
 JWT_SECRET = fgu74tdttdth
